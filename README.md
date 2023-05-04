@@ -1,4 +1,5 @@
 ## Understanding Business Problems
+Link : https://docs.google.com/presentation/d/1ilffSBg_8dgBnF-nEcfLdcCy9kpB347pRHvDE7t_OCM/edit?usp=share_link
 
 ----
 
